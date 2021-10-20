@@ -187,7 +187,7 @@ body {
   margin: 0;
   font-weight: bold;
   font-size: 50px;
-  color: red;
+  color: var(--min-color);
 }
 .landing .intro-text p {
   font-size: 19px;
